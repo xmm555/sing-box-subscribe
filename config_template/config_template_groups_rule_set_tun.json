@@ -104,6 +104,7 @@
       "tag":"OpenAI",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "TaiWan",
         "Singapore",
         "Japan",
@@ -116,6 +117,7 @@
       "tag":"Google",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "HongKong",
         "TaiWan",
         "Singapore",
