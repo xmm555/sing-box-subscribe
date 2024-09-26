@@ -104,6 +104,7 @@
       "tag":"OpenAI",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "TaiWan",
         "Singapore",
         "Japan",
@@ -116,6 +117,7 @@
       "tag":"Google",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "HongKong",
         "TaiWan",
         "Singapore",
@@ -128,6 +130,7 @@
       "tag":"Telegram",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "HongKong",
         "TaiWan",
         "Singapore",
@@ -140,6 +143,7 @@
       "tag":"Twitter",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "HongKong",
         "TaiWan",
         "Singapore",
@@ -152,6 +156,7 @@
       "tag":"Facebook",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "HongKong",
         "TaiWan",
         "Singapore",
@@ -164,6 +169,7 @@
       "tag":"BiliBili",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "direct",
         "HongKong",
         "TaiWan"
@@ -173,6 +179,7 @@
       "tag":"Bahamut",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "TaiWan",
         "Proxy"
       ]
@@ -181,6 +188,7 @@
       "tag":"Spotify",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "HongKong",
         "TaiWan",
         "Singapore",
@@ -194,6 +202,7 @@
       "tag":"TikTok",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "HongKong",
         "TaiWan",
         "Singapore",
@@ -206,6 +215,7 @@
       "tag":"Netflix",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "HongKong",
         "TaiWan",
         "Singapore",
@@ -218,6 +228,7 @@
       "tag":"Disney+",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "HongKong",
         "TaiWan",
         "Singapore",
@@ -230,6 +241,7 @@
       "tag":"Apple",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "direct",
         "HongKong",
         "TaiWan",
@@ -243,6 +255,7 @@
       "tag":"Microsoft",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "direct",
         "HongKong",
         "TaiWan",
@@ -256,6 +269,7 @@
       "tag":"Games",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "direct",
         "HongKong",
         "TaiWan",
@@ -269,6 +283,7 @@
       "tag":"Streaming",
       "type":"selector",
       "outbounds":[
+        "Proxy",
         "HongKong",
         "TaiWan",
         "Singapore",
@@ -281,6 +296,7 @@
       "tag":"Global",
       "type":"selector",
       "outbounds":[ 
+        "Proxy",
         "HongKong",
         "TaiWan",
         "Singapore",
